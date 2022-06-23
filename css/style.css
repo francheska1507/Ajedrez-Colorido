@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+h4{
+    font-family: 'Abel', sans-serif;
+}
+.caja1{
+    
+    border: 2px darkmagenta dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 150px;
+    background-color:aqua;
+}
+.caja2{
+    border: 2px darkmagenta dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 150px;
+    background-color: cornflowerblue;
+     
+}
+.caja3{
+    
+    border:2px darkmagenta dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 150px;
+    background-color:slateblue;
+}
+.caja4{
+    
+    border:2px darkmagenta dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 150px;
+    background-color:royalblue;
+}
+.caja5{
+    
+    border: 2px red dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 200px;
+    background-color:coral;
+}
+.caja6{
+    border:2px red dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 200px;
+    background-color:chocolate;
+}
+.caja7{
+    border: 2px red dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 200px;
+    background-color:goldenrod;
+}
+.caja8{
+    border: blue dashed 2px ;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 180px;
+    background-color:yellowgreen;
+}
+.caja9{
+    border: blue dashed 2px;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 180px;
+    background-color:springgreen;
+}
+.caja10{
+    display: flex;
+    border: blue dashed 2px;
+    justify-content: center ; 
+    align-items: center;
+    height: 180px;
+    background-color:lime;
+}
+.caja11{
+    border: blue 2px dashed;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 180px;
+    background-color:chartreuse;
+}
+.caja12{
+    border: blue dashed 2px;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 180px;
+    background-color:seagreen;
+}
+.caja13{
+    border: blue dashed 2px;
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    height: 180px;
+    background-color:forestgreen;
+}
+.caja14{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color: lightseagreen;
+}
+.caja15{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:darkslategray;
+}
+.caja16{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:darkslateblue;
+}
+.caja17{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:mediumorchid;
+}
+.caja18{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:mediumpurple;
+}
+.caja19{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:mediumvioletred;
+}
+
+.caja20{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:mediumseagreen;
+}
+.caja21{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:mediumspringgreen;
+}
+.caja22{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:lightseagreen;
+}
+.caja23{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:cornflowerblue;
+}
+.caja24{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:cadetblue;
+}
+.caja25{
+    border:indigo 2px dashed;
+    height: 250px;
+    background-color:dodgerblue;
+}
+
